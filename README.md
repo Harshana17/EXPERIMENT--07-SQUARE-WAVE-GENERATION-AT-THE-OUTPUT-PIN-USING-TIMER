@@ -284,3 +284,7 @@ FREQUENCY = 1/(TOTAL TIME) = 1/(TON+TOFF) = 1/50 = 0.02
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
+
+
+
+
